@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-ribeiro-6a262220b/)<br/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelrs02&show_icons=true&theme=dark"/><br/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelrs02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelrs02&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
