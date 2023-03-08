@@ -4,10 +4,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-ribeiro-6a262220b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikaelribeiro02/?igshid=YmMyMTA2M2Y%3D/)<br/>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelrs02&show_icons=true&theme=dark"/><br/>
-  <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelrs02&layout=compact&langs_count=7&theme=dark"/>
-  ![Mikael GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelrs02&show_icons=true&theme=dark)
+  <a href="https://github.com/mikaelrs02">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikaelrs02&show_icons=true&theme=dracula&include_all_commits=true&count_private=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelrs02&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
