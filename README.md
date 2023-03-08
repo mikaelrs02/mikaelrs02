@@ -5,11 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-ribeiro-6a262220b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikaelribeiro02/?igshid=YmMyMTA2M2Y%3D/)<br/>
 
-<div align="center">
-  <a href="https://github.com/mikaelrs02">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mikaelrs02&show_icons=true&theme=dracula&include_all_commits=true&count_private=gruvbox"/>
-</div>
-
 
 ### Tecnologias que estou aprendendo 🕮
 
