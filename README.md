@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelrs02&layout=compact&hide_border=true&title_color=FFFFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
+<div align="center">  
 <a href="https://www.instagram.com/mikaelribeiro02/?igshid=YmMyMTA2M2Y%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/mikael-ribeiro-6a262220b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
