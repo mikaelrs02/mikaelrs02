@@ -1,6 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ca7a8&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ca7a8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mikael+Ribeiro;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
